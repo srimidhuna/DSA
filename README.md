@@ -8,3 +8,9 @@ DAY - 1
 DAY - 2
     if-else statement
     switch statement
+DAY - 3
+    array
+    string
+DAY - 4
+    for loop
+    while loop
